@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/afp-project-live/static/css/main.6708652a.css",
+    "main.js": "/afp-project-live/static/js/main.373c1409.js",
+    "static/js/787.0430970b.chunk.js": "/afp-project-live/static/js/787.0430970b.chunk.js",
+    "index.html": "/afp-project-live/index.html",
+    "main.6708652a.css.map": "/afp-project-live/static/css/main.6708652a.css.map",
+    "main.373c1409.js.map": "/afp-project-live/static/js/main.373c1409.js.map",
+    "787.0430970b.chunk.js.map": "/afp-project-live/static/js/787.0430970b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6708652a.css",
+    "static/js/main.373c1409.js"
+  ]
+}
